@@ -1,5 +1,5 @@
 ### Hi, there 👋
-<img src="https://c.tenor.com/TQcvZdJmY8oAAAAi/good-afternoon-hand-waves.gif" style="width:50px">
+<img src="https://c.tenor.com/TQcvZdJmY8oAAAAi/good-afternoon-hand-waves.gif" style="width:50px;">
 <!--
 **proprytr/proprytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
